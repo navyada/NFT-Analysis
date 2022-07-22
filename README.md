@@ -7,6 +7,6 @@ Over 4.5 million transactions.
 
 This is a very large dataset - 7.5 GB .
 
-The main tables are mints and transfers - the other tables are derived from or auxiliary to these
+The main tables are mints and transfers - the other tables are derived from or auxiliary to these.
 
 This project was completed to help Syntegrate better understand the NFT market. 
