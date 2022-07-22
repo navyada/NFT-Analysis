@@ -3,7 +3,7 @@
 Using Kaggle Dataset, I went through the data for analysis and insights, proposing my own questions to be answered by the data
 Data was obtained from “Ethereum NFTs” on Kaggle: https://www.kaggle.com/datasets/simiotic/ethereum-nfts
 It includes all data of Ethereum NFT transactions between April 1, 2021 to September 25, 2021. 
-Over 4.5 million transactions. 
+Over 4.5 million transactions. Because the dataset is large, I was unable to upload it to the repository, however it is free and open-access on the website listed above. 
 
 This is a very large dataset - 7.5 GB .
 
